@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/caae22bd-d80b-4da6-8018-085c8d791d86" alt="Cover Photo" width="100%">
+</p>
+
+
 ## About me
 ---
 
